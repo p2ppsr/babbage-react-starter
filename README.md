@@ -4,7 +4,7 @@ A starter Babbage app built with React
 
 ## Getting Set Up
 
-If you haven't already, you'll need to [download NodeJS]() and install it on your computer.
+If you haven't already, you'll need to [download NodeJS](https://nodejs.org/) and install it on your computer.
 
 Then, download (or clone) this code from GitHub and put it into a folder on your computer where you will keep your coding projects.
 
@@ -14,7 +14,7 @@ To install the required packages and initialize this repository, open a Command 
 npm install
 ```
 
-Once this step is complete, your new Babbage app is ready to start. Go ahead and open up a code editor like [Visual Studio Code]() and load the project.
+Once this step is complete, your new Babbage app is ready to start. Go ahead and open up a code editor like [Visual Studio Code](https://code.visualstudio.com/) and load the project.
 
 To start the app, just open another command window in the project folder and run:
 

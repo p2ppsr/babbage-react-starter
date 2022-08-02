@@ -25,10 +25,11 @@ const App = () => {
       setLoading(true)
       const action = await createAction({
         description: 'Create an Action with Babbage React Starter',
-        keyName: 'primarySigning',
-        keyPath: 'm/1033/1',
-        data: [
-          btoa('Hello World')
+        outputs: [
+          {
+            script: '016a',
+            satoshis: 1
+          }
         ]
       }, false)
       console.log('Your Action was created! Here are the details:')

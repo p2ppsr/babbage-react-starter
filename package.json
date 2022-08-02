@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@babbage/react-prompt": "^0.1.2",
-    "@babbage/sdk": "^0.1.4",
+    "@babbage/react-prompt": "^0.2.1",
+    "@babbage/sdk": "^0.2.5",
     "@material-ui/core": "^4.11.4",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",

@@ -31,7 +31,7 @@ const App = () => {
             satoshis: 1
           }
         ]
-      }, false)
+      })
       console.log('Your Action was created! Here are the details:')
       console.log(action)
       toast.success('Action created! Hit F12 to open your browser console and see the details.')
@@ -62,7 +62,7 @@ const App = () => {
       >
         Create an Action
       </Button>
-      <a href='https://projectbabbage.com/sdk'>
+      <a href='https://projectbabbage.com/docs/babbage-sdk'>
         <Button>Learn the Babbage SDK</Button>
       </a>
     </div>
